@@ -1,5 +1,7 @@
-streamlit==1.2.0
-ffmpeg-python==0.2.0
-requests==2.26.0
+ffmpeg==1.4
+ffmpeg_python==0.2.0
+openai_whisper==20230314
 pytube==11.0.1
-whisper==1.1.10
+Requests==2.30.0
+streamlit==1.2.0
+yt_dlp==2023.3.4
